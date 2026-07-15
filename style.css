@@ -90,9 +90,18 @@ img {
     border-radius: 25px;
     padding-top: 10px;
 
-
-
 }
+
+.card2 {
+    background-color: rgba(88, 101, 242, 0.6);
+    height: 550px;
+    width: 350px;
+    margin: 20px;
+    margin-top: 40px;
+    border-radius: 25px;
+    padding-top: 10px;
+}
+
 
 .card-title {
     font-family: "Sigmar One", sans-serif;
@@ -122,7 +131,7 @@ img {
     margin: 10px;
     margin-bottom: 15px;
     margin-top: 10px;
-    padding: 15px;
+    padding: 20px;
     text-align: left;
     width: 290px;
     height: 90px;
@@ -131,7 +140,7 @@ img {
 .card-img {
     border-radius: 40px;
     margin: 10px;
-    margin-top: 10px;
+    margin-top: 30px;
     padding: 15px;
     text-align: left;
     width: 330px;
@@ -153,4 +162,23 @@ img {
     position: absolute;
     top: 1165px;
     left: 60px;
+}
+
+.eyes {
+    width: 80px;
+    position: absolute;
+    top: 1760px;
+    left: 150px;
+}
+
+
+.card-vid {
+    border-radius: 50px;
+    margin: 10px;
+    margin-top: 40px;
+    margin-left: 25px;
+    padding: 15px;
+    text-align: left;
+    width: 300px;
+    height: 237px;
 }
