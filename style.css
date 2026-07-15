@@ -23,12 +23,14 @@ body {
 
 .header-text {
     font-family: "Sigmar One", sans-serif;
+    font-size: 13px;
     font-weight: 100;
     font-style: normal;
     color: white;
     text-align: center;
     line-height: 30px;
     margin: 50px;
+    margin-top: 60px;
     margin-bottom: 10px;
 
 }
@@ -37,7 +39,7 @@ body {
     color: white;
     font-family: "Plus Jakarta Sans", sans-serif;
     font-style: bold;
-    font-size: 16px;
+    font-size: 13px;
     text-align: center;
     padding 10px;
     margin: 50px;
@@ -59,7 +61,7 @@ body {
     margin-bottom: 5px;
     padding: 10px;
     width: 290px;
-    height: 50px;
+    height: 45px;
 }
 
 .button-open {
@@ -74,5 +76,5 @@ body {
     margin: 50px;
     margin-top: 5px;
     width: 290px;
-    height: 50px;
+    height: 45px;
 }
